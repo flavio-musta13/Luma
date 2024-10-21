@@ -1,0 +1,15 @@
+{
+  "name": "luma",
+  "version": "1.0.0",
+  "description": "a simple try to interact with llama studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torelli Luca Augusto",
+  "license": "MIT",
+  "dependencies": {
+    "@lmstudio/sdk": "^0.2.0",
+    "axios": "^1.7.7"
+  }
+}
